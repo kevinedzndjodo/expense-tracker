@@ -1,4 +1,5 @@
 import "./App.css";
+import "./index.css";
 import AddNewTransaction from "./components/AddNewTransaction";
 import Balance from "./components/Balance";
 import Header from "./components/Header";
